@@ -306,7 +306,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - your.email@example.com
 
-Project Link: [https://github.com/yourusername/BookMyMovies](https://github.com/yourusername/BookMyMovies)
+Project Link: [https://github.com/dipk2003/BookMyMovies](https://github.com/dipk2003/BookMyMovies)
 
 ---
 
